@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.show-hide-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'Roboto';
+  background: linear-gradient(to right, #fa7257, #fc63a7);
+}
+.h1 {
+  color: #fff;
+  font-size: 35px;
+}
+
+.show-hide-item-container {
+  margin-bottom: 50px;
+}
+
+button {
+  height: 38px;
+  width: 180px;
+  border: 0;
+  border-radius: 10px;
+  color: #dd1264;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.show-hide-app-output-cont {
+  background-color: #fddddb;
+  height: 100px;
+  width: 250px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.p {
+  font-size: 20px;
+  font-weight: bold;
+}
